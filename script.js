@@ -1,6 +1,6 @@
 /* find max number in array */
 
-let arr = [4,8,2,11,6.7,10];
+let arr = [4,8,2,11,6,7,10];
 let i = 0;
 let maxNumber = arr[0];
 function findMax() {
