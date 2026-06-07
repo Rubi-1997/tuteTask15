@@ -34,7 +34,7 @@ let countOdd=0;
 
 const oddNumbers =function (){
     for(i=0;i<arr.length;i++){
-        if(arr[i]%2==0){
+        if(arr[i]%2!=0){
             countOdd++;
         }
     }
